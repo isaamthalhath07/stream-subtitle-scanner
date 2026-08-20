@@ -1,0 +1,57 @@
+{
+  "episode_summary": "The episode delves into Cassie's burgeoning career as an online content creator, managed by Maddy, and her complex financial relationship with Nate. Concurrently, Rue finds herself deeper in the criminal underworld with Alamo, a dangerous figure, while also attempting to cooperate with the DEA. Alamo's quest for revenge for a past robbery leads to brutal violence and multiple deaths among his associates. The episode culminates in a series of horrific events, including Nate's violent attack, the execution of two of Alamo's subordinates, and Rue's own implied execution by being dragged by a horse.",
+  "deaths": [
+    {
+      "character": "Unnamed subordinate (G)",
+      "type": "on_screen",
+      "confidence": "high",
+      "cause_of_death": "Ice pick attack by Alamo",
+      "evidence": "Alamo threatens 'Tell me, motherfucker, before I kill you.' The subordinate's pleas stop after an 'ice pick thuds' sound effect, followed by Alamo's panting and comment 'Judas bastards.'",
+      "timestamp": "11:26"
+    },
+    {
+      "character": "Rue's mother's ex-husband's new wife",
+      "type": "referenced",
+      "confidence": "high",
+      "cause_of_death": "Unspecified",
+      "evidence": "Rue states, 'And then, she died.'",
+      "timestamp": "22:02"
+    },
+    {
+      "character": "Nate",
+      "type": "on_screen",
+      "confidence": "high",
+      "cause_of_death": "Violent attack, implied dismemberment/mutilation",
+      "evidence": "Nate is violently attacked, with sounds of 'flesh squelching,' 'clippers snipping,' and 'flesh ripping' while he screams and sobs, begging for his life and offering money. His screams fade, strongly implying a fatal, brutal attack.",
+      "timestamp": "37:28"
+    },
+    {
+      "character": "Unnamed subordinate",
+      "type": "on_screen",
+      "confidence": "high",
+      "cause_of_death": "Buried alive by Alamo's men",
+      "evidence": "The subordinate is forced to 'Start digging. A hole. Up to your throat.' He pleads for help, followed by 'dirt crunching' and silence, strongly implying he was buried alive.",
+      "timestamp": "52:41"
+    },
+    {
+      "character": "Rue",
+      "type": "on_screen",
+      "confidence": "high",
+      "cause_of_death": "Dragged by a horse",
+      "evidence": "Rue is tied up and pleads for her life. Alamo commands 'Hyah! Come on!' followed by Rue's screams of 'Nooo!', 'hoofbeats thundering,' and 'soft rumbling' as the scene cuts away, depicting her execution.",
+      "timestamp": "57:50"
+    }
+  ],
+  "total_deaths_on_screen": 4,
+  "total_deaths_referenced": 1,
+  "characters_at_risk": [
+    {
+      "character": "Laurie",
+      "reason": "Alamo explicitly states his intention to 'spread hers' (referring to her ass cheeks, implying sexual assault or extreme violence) and take back what he believes is valuable from her. He also refers to her as a 'Dracula-faced bitch' and is actively seeking revenge against her."
+    },
+    {
+      "character": "Maddy",
+      "reason": "Alamo keeps Maddy at the diner alone after Rue leaves, questioning her about her business and seemingly evaluating her. Given Alamo's violent nature and his earlier comment to Rue about 'keeping your head,' Maddy is in a vulnerable position with a dangerous criminal."
+    }
+  ]
+}

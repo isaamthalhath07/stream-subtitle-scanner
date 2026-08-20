@@ -1,0 +1,41 @@
+{
+  "episode_summary": "This episode focuses on the emotional turmoil and complex relationships of the main characters. Rue grapples with her addiction and her feelings for Jules, who is exploring her own identity and relationships. Maddy and Nate's volatile relationship reaches a breaking point, while Cassie navigates her own insecurities and desires. The episode also features a football game with high stakes for Nate, and a significant confrontation between Rue and Nate regarding Fez and Jules. The narrative weaves through themes of love, addiction, self-discovery, and the consequences of past actions, culminating in several emotional confrontations and uncertain futures for the characters.",
+  "deaths": [
+    {
+      "character": "Nate Jacobs",
+      "type": "on_screen",
+      "confidence": "high",
+      "cause_of_death": "Shot by an unseen assailant during a violent confrontation.",
+      "evidence": "The transcript includes [gun firing] and [flesh sizzling] sounds immediately after Nate is heard screaming, followed by a comment 'What a fuckin' pussy.'",
+      "timestamp": "06:42-06:48"
+    }
+  ],
+  "total_deaths_on_screen": 1,
+  "total_deaths_referenced": 0,
+  "characters_at_risk": [
+    {
+      "character": "Rue",
+      "reason": "Struggles with addiction and mental health, as indicated by her past overdose and coma mentioned in Leslie's narration."
+    },
+    {
+      "character": "Jules",
+      "reason": "Engages in risky behavior and emotional turmoil, particularly in her relationship with Rue and her exploration of other relationships."
+    },
+    {
+      "character": "Maddy",
+      "reason": "Involved in a highly volatile and abusive relationship with Nate, which has led to significant emotional distress and physical altercations."
+    },
+    {
+      "character": "Nate Jacobs",
+      "reason": "Engages in violent behavior and has made powerful enemies, as evidenced by the threats made against him and his father."
+    },
+    {
+      "character": "Fezco",
+      "reason": "Involved in illegal activities and has had his house raided, indicating a high-risk lifestyle."
+    },
+    {
+      "character": "Cal",
+      "reason": "Appears to be involved in a violent altercation with Nate, with sounds of [banging] and [grunting] suggesting a physical struggle."
+    }
+  ]
+}

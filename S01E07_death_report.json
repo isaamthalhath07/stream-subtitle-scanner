@@ -1,0 +1,49 @@
+{
+  "episode_summary": "This episode delves into Cassie's past, revealing her father's car accident, subsequent addiction to prescribed painkillers, and eventual disappearance, which is implied to be his death. Rue narrates her struggles with severe depression, drug addiction, and manic episodes, including hallucinations and suicidal ideation. Jules visits a friend and discusses her complicated relationship with Rue and her identity. Cassie discovers she is pregnant and discusses her options with McKay. Fezco confronts Nate Jacobs, explicitly threatening to kill him if he continues to bother Rue and her friends. The episode ends with Rue seeking help for her mental health.",
+  "deaths": [
+    {
+      "character": "Cassie's Dad",
+      "type": "implied",
+      "confidence": "high",
+      "cause_of_death": "Overdose of prescribed medications (fentanyl, promethazine, lorazepam, imitrex) following a car accident",
+      "evidence": "Narrative describes a car accident, ICU stay, prescription of multiple strong painkillers, becoming 'less responsive,' and Cassie 'never saw her dad again.' Rue and Gia later explicitly state 'I miss your dad' and Rue mentions 'the chair my dad sat at.'",
+      "timestamp": "04:07-06:47, 24:41-24:44, 25:37"
+    },
+    {
+      "character": "Rue's Dad",
+      "type": "referenced",
+      "confidence": "high",
+      "cause_of_death": "Not specified",
+      "evidence": "Rue and Gia explicitly state 'I miss your dad.' Rue also mentions 'the chair my dad sat at,' indicating his absence/death.",
+      "timestamp": "24:41-24:44, 25:37"
+    },
+    {
+      "character": "Drug addicts (general)",
+      "type": "referenced",
+      "confidence": "high",
+      "cause_of_death": "Overdose",
+      "evidence": "Rue states, 'It's probably why so many drug addicts die on toilets,' in the context of her own drug use and bladder issues.",
+      "timestamp": "23:31-23:32"
+    },
+    {
+      "character": "Fezco's Grandma",
+      "type": "implied",
+      "confidence": "medium",
+      "cause_of_death": "Not specified",
+      "evidence": "Fezco states 'My grandma' when asked why he has so many guns, implying he inherited them after her passing.",
+      "timestamp": "27:56"
+    }
+  ],
+  "total_deaths_on_screen": 0,
+  "total_deaths_referenced": 2,
+  "characters_at_risk": [
+    {
+      "character": "Rue",
+      "reason": "Rue is experiencing severe depression, drug addiction, and manic states, leading to suicidal ideation and hallucinations. She mentions wanting to swallow a whole bottle of Tylenol, discusses drug addicts dying from overdose, and describes her living situation as a 'long, sadistic joke.' Her mother also expresses concern about her mental state and puts her back on medication."
+    },
+    {
+      "character": "Nate Jacobs",
+      "reason": "Fezco explicitly threatens to kill Nate Jacobs if he continues to bother Rue and her friends, stating, 'All I'm sayin', you keep fuckin' with Rue and her friends and I'mma kill you.'"
+    }
+  ]
+}

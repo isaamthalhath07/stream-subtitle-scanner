@@ -1,0 +1,25 @@
+{
+  "episode_summary": "The episode delves into Nate Jacobs' childhood, revealing his father Cal's secret life and Nate's subsequent development of a rigid, controlling personality. Rue narrates her own struggles with drug addiction, including a flashback to her father's illness and her first experience with Oxycontin. She attempts to get drugs from Fezco, who is then visited by a dangerous drug dealer named Mouse and his associate. Nate confronts and brutally assaults Tyler, a college student he believes raped Maddy. The episode concludes with Rue high on Fentanyl, and Fezco calling for help, implying Rue is in danger.",
+  "deaths": [
+    {
+      "character": "Rue's Dad (Robert)",
+      "type": "referenced",
+      "confidence": "high",
+      "cause_of_death": "Illness (implied terminal illness)",
+      "evidence": "Rue states, 'I used to take care of my dad after school because my mom had to take a second job to cover the medical bills.' The phrase 'used to' strongly implies he is no longer alive. Flashbacks show him with a rhythmic monitor beeping, indicating a serious medical condition.",
+      "timestamp": "22:20"
+    }
+  ],
+  "total_deaths_on_screen": 0,
+  "total_deaths_referenced": 1,
+  "characters_at_risk": [
+    {
+      "character": "Rue",
+      "reason": "She takes Fentanyl, a highly potent opioid, and expresses fear of dying ('do not let me die tonight'). Fezco later calls for help for Rue and tells Ash to grab Narcan, indicating a high risk of overdose."
+    },
+    {
+      "character": "Tyler",
+      "reason": "He is brutally assaulted by Nate Jacobs, who uses a baseball bat and knives, screaming in pain and sobbing. Nate threatens to hurt him severely."
+    }
+  ]
+}

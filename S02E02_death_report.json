@@ -1,0 +1,50 @@
+{
+  "episode_summary": "This episode delves into the complex relationships and emotional turmoil of the characters. Nate grapples with his feelings for Cassie while dealing with the fallout from past actions, including a violent encounter. Cassie experiences a low-grade depression and contemplates her romantic choices. Rue's narration explores themes of love, loss, and addiction, revealing her struggles with drug use and the impact of her father's death. Fezco and Ashtray navigate a new house guest, Faye, who is on the run from the law after allegedly pushing a motel manager off a balcony. Maddy deals with the aftermath of a violent incident involving Nate, while Lexi reflects on her passive nature and Fezco's contrasting behaviors. Kat struggles with self-hatred and societal pressures, leading to a breakdown. The episode culminates in a series of confrontations and revelations, including Nate's father confronting Cassie about Nate's assault, and Cal confronting Nate about filming Jules. Rue's own struggles with addiction are highlighted as she confides in Elliot about her father's death and her reliance on drugs.",
+  "deaths": [
+    {
+      "character": "Motel Manager",
+      "type": "on_screen",
+      "confidence": "high",
+      "cause_of_death": "Pushed off a balcony",
+      "evidence": "Faye admits to pushing the motel manager off the balcony, and the subsequent police search for Faye implies the manager's death."
+    },
+    {
+      "character": "Mouse",
+      "type": "referenced",
+      "confidence": "high",
+      "cause_of_death": "Killed",
+      "evidence": "Faye asks Fezco if it's true he killed Mouse."
+    },
+    {
+      "character": "Rue's Father",
+      "type": "referenced",
+      "confidence": "high",
+      "cause_of_death": "Cancer",
+      "evidence": "Rue tells Elliot her father died of cancer when she was 14."
+    }
+  ],
+  "total_deaths_on_screen": 1,
+  "total_deaths_referenced": 2,
+  "characters_at_risk": [
+    {
+      "character": "Nate Jacobs",
+      "reason": "He was involved in a violent encounter and was taken to the hospital. He also mentions Maddy will try to kill him if she finds out about Cassie."
+    },
+    {
+      "character": "Rue",
+      "reason": "She is struggling with drug addiction and appears to have overdosed."
+    },
+    {
+      "character": "Cassie",
+      "reason": "She is experiencing a low-grade depression and expresses suicidal thoughts ('I just wanna kill myself')."
+    },
+    {
+      "character": "Faye",
+      "reason": "She is on the run from the police after allegedly pushing someone off a balcony."
+    },
+    {
+      "character": "Custer",
+      "reason": "He is involved with Faye, who is being sought by the police, and is seen hiding in a vent from officers."
+    }
+  ]
+}

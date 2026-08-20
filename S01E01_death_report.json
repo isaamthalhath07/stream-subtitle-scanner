@@ -1,0 +1,49 @@
+{
+  "episode_summary": "The episode introduces Rue, a teenager struggling with drug addiction and mental health issues, narrated by herself. It covers her childhood, her first experience with drugs after her father's illness, her time in rehab, and her immediate relapse upon returning home. The narrative also introduces other characters like Jules, Cassie, Kat, and Nate, detailing their experiences with relationships, sexuality, and social dynamics at a summer party. Rue's father's death from illness is implied, and historical figures known for suicide are referenced. The episode ends with Rue and Jules getting high together, highlighting Rue's ongoing struggle.",
+  "deaths": [
+    {
+      "character": "Vincent Van Gogh",
+      "type": "referenced",
+      "confidence": "high",
+      "cause_of_death": "Suicide (gunshot)",
+      "evidence": "Leslie mentions his name as someone who struggled, immediately followed by a gunshot sound effect.",
+      "timestamp": "02:00"
+    },
+    {
+      "character": "Sylvia Plath",
+      "type": "referenced",
+      "confidence": "high",
+      "cause_of_death": "Suicide",
+      "evidence": "Leslie mentions her name as someone who struggled with similar issues as Rue, implying her known suicide.",
+      "timestamp": "02:04"
+    },
+    {
+      "character": "Kat's Grandma",
+      "type": "referenced",
+      "confidence": "high",
+      "cause_of_death": "Not specified (implied natural causes)",
+      "evidence": "A character (Kat) mentions her grandma being 'up in heaven'.",
+      "timestamp": "38:42"
+    },
+    {
+      "character": "Rue's Dad",
+      "type": "implied",
+      "confidence": "high",
+      "cause_of_death": "Illness",
+      "evidence": "Rue narrates that her dad was diagnosed with an illness, and 'Two years later, he was gone.'",
+      "timestamp": "41:16"
+    }
+  ],
+  "total_deaths_on_screen": 0,
+  "total_deaths_referenced": 3,
+  "characters_at_risk": [
+    {
+      "character": "Rue",
+      "reason": "Her history of drug overdose and continued drug use, as evidenced by her asking Jules 'Wanna get high?' at the end of the episode."
+    },
+    {
+      "character": "Jules",
+      "reason": "Nate's aggressive and threatening behavior towards her at the party, where he threatens to 'get fucked up' and she pulls a knife in self-defense."
+    }
+  ]
+}

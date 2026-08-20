@@ -1,0 +1,28 @@
+{
+  "episode_summary": "This episode delves into the complex relationships and past traumas of the main characters. Maddy grapples with the aftermath of Nate's alleged assault, facing legal and personal repercussions. Rue reflects on her addiction and her relationship with Jules, while also navigating her own recovery journey. The episode explores themes of abuse, control, and the search for identity, with characters confronting their past actions and their impact on others. There are also discussions about past relationships and potential future paths, highlighting the ongoing struggles and emotional turmoil of the characters.",
+  "deaths": [],
+  "total_deaths_on_screen": 0,
+  "total_deaths_referenced": 0,
+  "characters_at_risk": [
+    {
+      "character": "Maddy",
+      "reason": "Suffered physical abuse from Nate, leading to visible bruising and a school investigation. She is also dealing with the emotional fallout and potential legal consequences."
+    },
+    {
+      "character": "Rue",
+      "reason": "Struggles with addiction and relapse, as evidenced by her attendance at a Narcotics Anonymous meeting and her past use of drugs. Her desire to stay clean is a constant battle."
+    },
+    {
+      "character": "Nate",
+      "reason": "Faces accusations of assault and potential legal charges. His volatile behavior and past actions put him at risk of severe consequences."
+    },
+    {
+      "character": "Cal",
+      "reason": "His actions and secrets, particularly concerning his relationship with Minako and his sons' anger, suggest underlying issues that could lead to further conflict or emotional distress."
+    },
+    {
+      "character": "Minako",
+      "reason": "Appears to be involved in a complex and potentially damaging relationship with Cal, dealing with her own issues and the impact on her family."
+    }
+  ]
+}

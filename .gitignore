@@ -1,0 +1,23 @@
+node_modules
+
+# Browser profiles — contain live session cookies and auth tokens
+chrome_hotstar_profile/
+chrome_subs_profile/
+*_profile/
+
+# Captured network dumps — contain live session cookies and auth tokens
+hotstar_probe_results.json
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Local Claude Code tooling
+.claude
+
+# Logs
+*.log
+npm-debug.log*
+
+.DS_Store

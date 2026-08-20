@@ -1,0 +1,45 @@
+{
+  "episode_summary": "This episode focuses on Jules's struggles with her mental health and her admission into a psychiatric unit. We see her journey through therapy, her interactions with other patients, and her eventual progress. Meanwhile, Rue navigates her own challenges and relationships, particularly with Jules. The episode also touches upon themes of addiction, self-harm, and the complexities of family dynamics. A significant subplot involves Maddy and Cassie's relationship drama, culminating in a public confrontation at a chili cook-off. Cal Jacobs is revealed to have a past encounter with Jules, and Nate faces accusations of producing child pornography, leading to a tense confrontation with his father.",
+  "deaths": [
+    {
+      "character": "Allan",
+      "type": "on_screen",
+      "confidence": "high",
+      "cause_of_death": "Assumed to be killed by Jesse during a violent outburst in the psychiatric unit.",
+      "evidence": "Jesse threatens to rape Dr. Kay and then is heard grunting, followed by Dr. Kay saying 'Usually there's two to a room' and then 'Allan!' in a distressed tone. The implication is that Allan, who was likely in the room with Jesse, was attacked and killed.",
+      "timestamp": "01:50-02:04"
+    }
+  ],
+  "total_deaths_on_screen": 1,
+  "total_deaths_referenced": 0,
+  "characters_at_risk": [
+    {
+      "character": "Jules",
+      "reason": "Admitted to a psychiatric hospital, exhibits self-harm tendencies, and expresses suicidal ideation ('stand to be alive')."
+    },
+    {
+      "character": "Jesse",
+      "reason": "Exhibits extreme aggression and violence, threatening rape and causing a commotion that implies harm to another patient (Allan)."
+    },
+    {
+      "character": "Gia",
+      "reason": "Her mother, Rue, is concerned about her well-being and mentions she's not answering her phone, suggesting she might be in a dangerous situation or under the influence."
+    },
+    {
+      "character": "Nate",
+      "reason": "Accused of producing and distributing child pornography, facing potential legal repercussions and a severe threat from his father."
+    },
+    {
+      "character": "Cal Jacobs",
+      "reason": "His past actions with Jules are revealed, and he is confronted by Nate's father, creating a potentially dangerous situation."
+    },
+    {
+      "character": "Maddy",
+      "reason": "Engaged in a volatile relationship with Nate, leading to public confrontations and emotional distress."
+    },
+    {
+      "character": "Cassie",
+      "reason": "Involved in a complicated relationship with McKay, leading to emotional distress and arguments."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "episode_summary": "This episode follows Rue's journey as a drug mule, detailing her dangerous runs, encounters with various characters, and the escalating risks involved. She navigates complex relationships and financial pressures, leading to increasingly perilous situations. The episode highlights the harsh realities of the drug trade and its impact on those involved, culminating in a violent confrontation.",
+  "deaths": [
+    {
+      "character": "Uno",
+      "type": "implied",
+      "confidence": "medium",
+      "cause_of_death": "Suspected overdose or complications from swallowing drug-filled balloons.",
+      "evidence": "Uno is seen swallowing balloons and later experiences gagging, coughing, and retching. Rue states, 'if a balloon breaks, you die.' Uno's subsequent disappearance and the context of body packing strongly imply death.",
+      "timestamp": "13:45-15:01"
+    }
+  ],
+  "total_deaths_on_screen": 0,
+  "total_deaths_referenced": 0,
+  "characters_at_risk": [
+    {
+      "character": "Rue",
+      "reason": "Engaged in high-risk drug smuggling, including swallowing drug-filled balloons, which carries a significant risk of death if a balloon breaks."
+    },
+    {
+      "character": "Faye",
+      "reason": "Participating in drug smuggling activities with Rue, including crossing borders, which exposes her to law enforcement and potential violence."
+    },
+    {
+      "character": "Laurie",
+      "reason": "Involved in the drug trade, which is inherently dangerous and can lead to violent retribution or run-ins with law enforcement."
+    },
+    {
+      "character": "Alamo",
+      "reason": "Operates strip clubs and is involved in the drug trade, making him a target for rivals or law enforcement."
+    },
+    {
+      "character": "Wayne",
+      "reason": "Involved in the drug business with his father and cousin, which carries inherent risks of violence and legal repercussions."
+    },
+    {
+      "character": "Harley",
+      "reason": "Involved in the drug business with his cousin Laurie and nephew Wayne, placing him at risk."
+    },
+    {
+      "character": "Nate",
+      "reason": "Involved in business dealings that appear to be on the fringes of legality, and his association with drug dealers puts him at risk."
+    },
+    {
+      "character": "Cassie",
+      "reason": "Her relationship with Nate and her involvement in potentially risky ventures (like OnlyFans) could put her in danger, though less directly than others."
+    },
+    {
+      "character": "Maddy",
+      "reason": "Works in talent management, which can expose her to the volatile entertainment industry and potentially dangerous clients."
+    },
+    {
+      "character": "Dylan Reid",
+      "reason": "An actor whose career and lifestyle might involve risks associated with fame and the entertainment industry."
+    },
+    {
+      "character": "Lexi",
+      "reason": "Works in the entertainment industry, which can have its own set of risks and pressures."
+    },
+    {
+      "character": "Patty Lance",
+      "reason": "A boss in the entertainment industry, potentially exposed to the pressures and conflicts within that world."
+    },
+    {
+      "character": "Heather",
+      "reason": "Her statements about Nate and her own online presence suggest potential involvement in risky or controversial activities."
+    },
+    {
+      "character": "Ali",
+      "reason": "Her conversations with Rue about faith and life choices, while not directly dangerous, indicate a search for meaning that could lead her into uncertain territory."
+    },
+    {
+      "character": "Fez",
+      "reason": "Mentioned as being in prison for 30 years, indicating a past that put him at significant risk and continues to limit his freedom."
+    }
+  ]
+}

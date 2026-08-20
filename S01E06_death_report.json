@@ -1,0 +1,28 @@
+{
+  "episode_summary": "This episode focuses on the aftermath of a violent incident at a party and the escalating tensions between various characters. McKay is recovering from a brutal assault, and Cassie struggles with the emotional toll. Nate attempts to manipulate Tyler Clarkson into confessing to a crime he may not have committed, while Maddy and another witness provide statements to the police. Rue grapples with her own struggles and relationships, particularly with Jules. The episode also features various characters dealing with personal issues, substance abuse, and relationship conflicts, culminating in a police investigation and a confrontation that could have serious legal consequences for those involved.",
+  "deaths": [],
+  "total_deaths_on_screen": 0,
+  "total_deaths_referenced": 0,
+  "characters_at_risk": [
+    {
+      "character": "McKay",
+      "reason": "He was severely beaten by a group of people at a party and is shown to be physically injured and traumatized."
+    },
+    {
+      "character": "Tyler Clarkson",
+      "reason": "He is being pressured by Nate to confess to a crime, and Nate is threatening him with severe consequences if he doesn't cooperate. He also appears to be physically injured from a previous incident."
+    },
+    {
+      "character": "Madeline Perez",
+      "reason": "She is involved in a police investigation and has accused someone of assault. There's a risk of retaliation or further legal trouble."
+    },
+    {
+      "character": "Rue",
+      "reason": "She is struggling with addiction and emotional distress, which puts her at risk of self-harm or relapse."
+    },
+    {
+      "character": "Jules",
+      "reason": "She is shown to be heavily intoxicated and in a vulnerable state, potentially leading to dangerous situations."
+    }
+  ]
+}

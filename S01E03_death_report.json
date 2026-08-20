@@ -1,0 +1,29 @@
+{
+  "episode_summary": "This episode focuses on Rue's struggles with addiction and her strained relationships, particularly with Jules and her family. Kat's story arc involves her online popularity and the complexities of her relationships. The episode also touches upon themes of love, loss, and the consequences of addiction, with several characters facing difficult choices and emotional turmoil. Rue's attempt to stay clean is challenged by her cravings and the reactions of those around her, leading to confrontations and moments of despair. The episode highlights the impact of addiction on individuals and their support systems.",
+  "deaths": [
+    {
+      "character": "Kat",
+      "type": "implied",
+      "confidence": "low",
+      "cause_of_death": "Unknown",
+      "evidence": "Kat's narrative is presented as a flashback or a story being told, and the ending implies a potential negative outcome or a significant life change. The line 'I literally wanna die' in relation to her diet, and the overall tone of her story, suggest a potential for self-harm or a tragic end, though it is not explicitly stated.",
+      "timestamp": "20:41"
+    }
+  ],
+  "total_deaths_on_screen": 0,
+  "total_deaths_referenced": 0,
+  "characters_at_risk": [
+    {
+      "character": "Rue",
+      "reason": "Struggles with addiction, relapses, and expresses suicidal ideation ('I literally wanna die')."
+    },
+    {
+      "character": "Kat",
+      "reason": "Expresses suicidal ideation ('I literally wanna die') and her narrative arc implies potential self-harm or a tragic end."
+    },
+    {
+      "character": "Cassie",
+      "reason": "Her mother threatens to 'kill her in her sleep' if she doesn't get permission to go away for the weekend, indicating a volatile home environment and potential for harm."
+    }
+  ]
+}
